@@ -42,7 +42,7 @@ const testArray = [
 var app = new Vue({
     el: '#app',
     data: {
-        itemsArray: testArray,
+        itemsArray: demoArray,
         selectedItem: demoArray[0],
         isMobile: false,
         isAlertDisplayed: false,
