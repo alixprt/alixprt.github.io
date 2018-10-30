@@ -27,7 +27,6 @@ const demoArray = [
 ]
 
 const testArray = [
-    newGood('Micro USB кабель «Бегущий ток»', 'Красивый эффект от «Бегущего тока» по кабелю во время зарядки вашего гаджета.', 'https://i0.wp.com/aliexpert.io/wp-content/uploads/2018/07/юсб-кабель.jpg', ['additionalImage1','additionalImage2','additionalImage3'], '176,94 ₽', 'http://ali.pub/2n0k9a'),
     newGood('Автомобильный инвертор SEAMETAL', 'Преобразователь (инвертор) 1000Вт, 2000Вт. Преобразовывает напряжение аккумулятора 12V в 220W.', 'https://i1.wp.com/aliexpert.io/wp-content/uploads/2018/07/12-220-DC-AC-1.jpg', ['additionalImage1','additionalImage2','additionalImage3'], '3917,87 ₽', 'http://ali.pub/2mcfre'),
     newGood('Антирадар V7', 'Видит все виды радаров,полный диапазон сканирования, два режима — городской и трасса, защита от обнаружения, голосовое сопровождение.', 'https://i1.wp.com/aliexpert.io/wp-content/uploads/2018/07/V7-16-alertled-5.jpg', ['additionalImage1','additionalImage2','additionalImage3'], '1412,83 ₽', 'http://ali.pub/2mc248'),
     newGood('Беспроводная Bluetooth клавиатура', 'Подключается по блютус к любому гаджету(смартфон, планшет, ноутбук, Смарт ТВ). Ультратонкая, с тачпадом.', 'https://i2.wp.com/aliexpert.io/wp-content/uploads/2018/07/блюпуп-клав.jpg', ['additionalImage1','additionalImage2','additionalImage3'], '1361,64 ₽', 'http://ali.pub/2n0jb2'),
